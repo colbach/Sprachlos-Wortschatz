@@ -1,55 +1,57 @@
-<Ordner>
-  de: Hygiene
-  en: Hygiene
-  fr: Hygiène
-  <Satz>
-    de: Wo finde ich die Toiletten
-    en: Where can I find the toilets
-    fr: Où puis-je trouver les toilettes
-  </Satz>
-  <Satz>
-    de: Wo finde ich die Toiletten
-    en: Where can I find the toilets
-    fr: Où puis-je trouver les toilettes
-  </Satz>
-</Ordner>
-<Ordner>
-  de: Essen und Trinken
-  en: Food and Drinks
-  fr: Aliments et boissons
-  <Satz>
-    de: Hat es ihnen geschmeckt?
-    en: Did you enjoy your meal?
-    fr: Vous avez aimé?
-  </Satz>
-  <Satz>
-    de: Wieviel macht das?
-    en: How much is it?
-    fr: Ça fait combien?
-  </Satz>
-  <Satz>
-    de: Das Essen war gut
-    en: The food was good
-    fr: La nourriture était bonne
-  </Satz>
+<Wortschatz>
   <Ordner>
-    de: Bestellen
-    en: Order
-    fr: Ordre
+    de: Hygiene
+    en: Hygiene
+    fr: Hygiène
     <Satz>
-      de: Kann ich die Speisekarte haben?
-      en: "Can I have the menu?
-      fr: "Puis-je avoir le menu?
+      de: Wo finde ich die Toiletten
+      en: Where can I find the toilets
+      fr: Où puis-je trouver les toilettes
     </Satz>
     <Satz>
-      de: Ist dieses Gericht vegetarisch?
-      en: Is this dish vegetarian?
-      fr: Est-ce plat végétarien?
-    </Satz>
-    <Satz>
-      de: Kann ich ein Glas Wasser haben?
-      en: Can I have a glass of water?
-      fr: Puis-je avoir un verre d'eau?
+      de: Wo finde ich die Toiletten
+      en: Where can I find the toilets
+      fr: Où puis-je trouver les toilettes
     </Satz>
   </Ordner>
-</Ordner> 
+  <Ordner>
+    de: Essen und Trinken
+    en: Food and Drinks
+    fr: Aliments et boissons
+    <Satz>
+      de: Hat es ihnen geschmeckt?
+      en: Did you enjoy your meal?
+      fr: Vous avez aimé?
+    </Satz>
+    <Satz>
+      de: Wieviel macht das?
+      en: How much is it?
+      fr: Ça fait combien?
+    </Satz>
+    <Satz>
+      de: Das Essen war gut
+      en: The food was good
+      fr: La nourriture était bonne
+    </Satz>
+    <Ordner>
+      de: Bestellen
+      en: Order
+      fr: Ordre
+      <Satz>
+        de: Kann ich die Speisekarte haben?
+        en: "Can I have the menu?
+        fr: "Puis-je avoir le menu?
+      </Satz>
+      <Satz>
+        de: Ist dieses Gericht vegetarisch?
+        en: Is this dish vegetarian?
+        fr: Est-ce plat végétarien?
+      </Satz>
+      <Satz>
+        de: Kann ich ein Glas Wasser haben?
+        en: Can I have a glass of water?
+        fr: Puis-je avoir un verre d'eau?
+      </Satz>
+    </Ordner>
+  </Ordner>
+</Wortschatz>
