@@ -30,3 +30,5 @@ Vom AVSpeechSynthesizer welcher bei der implementierung verwendet wird werden fo
     Swedish: sv
     Thai: th
     Turkish: tr
+
+ACHTUNG: Die Clientabfrage wird über http://cdn.rawgit.com/colbach/Sprachlos-Wortschatz/master/Wortschatz.xml gemacht. Es kann einige Minuten dauert bis sich dieser Link aktualisiert.
