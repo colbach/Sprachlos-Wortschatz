@@ -59,5 +59,20 @@
                 fr: Puis-je avoir un verre d'eau?
             </Satz>
         </Ordner>
+     </Ordner>
+     <Ordner>
+        de: test
+        en: test deutsch
+        fr: test französisch
+          <Satz>
+               de: test
+               en: test deutsch
+               fr: test französisch
+          </Satz>
+          <Satz>
+               de: test
+               en: test deutsch
+               fr: test französisch?
+        </Satz>
     </Ordner>
 </Wortschatz>
