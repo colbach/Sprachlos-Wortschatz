@@ -31,4 +31,4 @@ Vom AVSpeechSynthesizer welcher bei der implementierung verwendet wird werden fo
     Thai: th
     Turkish: tr
 
-ACHTUNG: Die Clientabfrage wird über https://raw.githubusercontent.com/colbach/Sprachlos-Wortschatz/master/Wortschatz.xml gemacht. Es kann einige Minuten dauert bis sich dieser Link aktualisiert.
+ACHTUNG: Die Datei wird von der App über die GitHub-API herunter geladen. Es kann einige Minuten dauern (theoretisch auch länger) bis sich dieser Link aktualisiert. Beschleunigen kann man dies in dem man per Hand mein paar mal volgende URL lädt: https://raw.githubusercontent.com/colbach/Sprachlos-Wortschatz/master/Wortschatz.xml
